@@ -668,7 +668,7 @@
     "@parcel/utils" "2.16.0"
     react-refresh "^0.16.0"
 
-"@parcel/transformer-sass@^2.8.2":
+"@parcel/transformer-sass@^2.16.0":
   version "2.16.0"
   resolved "https://registry.yarnpkg.com/@parcel/transformer-sass/-/transformer-sass-2.16.0.tgz#9fc4c548006d008690bce5f000fbeda5352b59b0"
   integrity sha512-xNxPewKt4EQLJ0pFO+RGSIYoyvoIWUYfjZJoO3VFUqgLMqrEi6/N3VmgNm9m6Qoi2Ege8x9MmAzVfs3/KEGLkA==
